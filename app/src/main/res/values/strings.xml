@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BMI</string>
+    <string name="bmi_1">體重過輕</string>
+    <string name="bmi_2">正常範圍</string>
+    <string name="bmi_3">過    重</string>
+    <string name="bmi_4">輕度肥胖</string>
+    <string name="bmi_5">中度肥胖</string>
+    <string name="bmi_6">重度肥胖</string>
+</resources>
